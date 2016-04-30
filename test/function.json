@@ -1,0 +1,12 @@
+{
+    "bindings": [
+    {
+      "schedule": "0 * * * * *",
+      "runOnStartup": true,
+      "name": "test",
+      "type": "timerTrigger",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}

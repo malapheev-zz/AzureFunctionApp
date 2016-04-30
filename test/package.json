@@ -1,11 +1,8 @@
 {
-  "name": "stub",
+  "name": "test",
   "version": "1.0.0",
-  "description": "",
-  "main": "stub.js", 
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    
-  }
+  "description": "test",
+  "main": "function.js", 
+  "author": "me",
+  "license": "ISC"
 }
